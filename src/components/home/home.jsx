@@ -6,14 +6,14 @@ export default function Home() {
     <div className="container about">
     <h1>Tristan Langford</h1>
     <h2>Full Stack Software Engineer</h2>
-        <img src={"/images/TL_image2.jpg"} className="tristan-image"/>
-        <img src={"/images/TL_image1.jpg"} className="tristan-image"/>
-        <img src={"/images/TL_image3.png"} className="tristan-image"/>
-        <img src={"/images/TL_image4.png"} className="tristan-image"/>
-        <img src={"/images/TL_image5.png"} className="tristan-image"/>
-        <img src={"/images/TL_image6.jpg"} className="tristan-image"/>
-        <img src={"/images/TL_image7.jpg"} className="tristan-image"/>
-        <img src={"/images/TL_image8.jpg"} className="tristan-image"/>
+        <img src={"/images/TL_image2.jpg"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image1.jpg"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image3.png"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image4.png"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image5.png"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image6.jpg"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image7.jpg"} className="tristan-image" alt="tristan"/>
+        <img src={"/images/TL_image8.jpg"} className="tristan-image" alt="tristan"/>
         <br/>
         <br/>
     <h3>About me... </h3>
