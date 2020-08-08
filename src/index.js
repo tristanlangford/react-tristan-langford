@@ -10,8 +10,8 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Header />
-    <div class="page-container">
-      <div class="content-wrap">
+    <div className="page-container">
+      <div className="content-wrap">
         <App />
         <Footer />
       </div>

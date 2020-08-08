@@ -3,19 +3,21 @@ import "./home.css"
 
 export default function Home() {
   return (
-    <div class="container about">
+    <div className="container about">
     <h1>Tristan Langford</h1>
     <h2>Full Stack Software Engineer</h2>
-        <img src={"/images/TL_image2.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image1.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image3.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image4.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image5.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image6.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image7.jpg"} class="tristan-image"/>
-        <img src={"/images/TL_image8.jpg"} class="tristan-image"/>
+        <img src={"/images/TL_image2.jpg"} className="tristan-image"/>
+        <img src={"/images/TL_image1.jpg"} className="tristan-image"/>
+        <img src={"/images/TL_image3.png"} className="tristan-image"/>
+        <img src={"/images/TL_image4.png"} className="tristan-image"/>
+        <img src={"/images/TL_image5.png"} className="tristan-image"/>
+        <img src={"/images/TL_image6.jpg"} className="tristan-image"/>
+        <img src={"/images/TL_image7.jpg"} className="tristan-image"/>
+        <img src={"/images/TL_image8.jpg"} className="tristan-image"/>
+        <br/>
+        <br/>
     <h3>About me... </h3>
-    <div class="about-me">
+    <div className="about-me">
       <p>Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technology in the healthcare sector, in early 2020 I found what I had been looking for in software development.</p>
       <p>I have recently graduated from Makers Academy London's leading programming bootcamp, learning best practice, tools and methodologies.</p>
       <ul> 
