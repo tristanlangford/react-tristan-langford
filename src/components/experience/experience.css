@@ -1,0 +1,41 @@
+.experience-table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+  
+  .experience-table ul {
+    list-style: none;
+  }
+  
+  .company {
+    font-weight: bold;
+    font-size: larger;
+  }
+  
+  .experience-table td {
+    max-width: 400px;
+    border-bottom: 2px dotted #282828;
+  }
+  
+  .timeline {
+    text-align: center;
+    background: #fff;	
+    background: linear-gradient(180deg, #282828, #282828);
+    background-position: 50%;
+    background-repeat: repeat-y;
+    background-size: 1px auto;
+  }
+  
+  .date {
+    background-color: #4b4b4b;
+  }
+  
+  .location {
+    font-style: italic;
+  }
+  
+  .job-details li {
+    padding-top: 10px;
+  }
