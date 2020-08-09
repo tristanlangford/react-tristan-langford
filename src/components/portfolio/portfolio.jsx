@@ -4,7 +4,7 @@ import "./portfolio.css"
 export default function Portfolio() {
   return (
     <div className="portfolio">
-    <h1>Projects</h1>
+    <h1>PROJECTS</h1>
     <table className="project-table"> 
       <thead> 
         <tr> 
