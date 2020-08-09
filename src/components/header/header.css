@@ -29,3 +29,18 @@
   .navbar-brand {
       margin-left: 10px;
   }
+
+  .collapse.navbar-collapse {
+    background-color: #282828;
+    text-align: left;
+  }
+
+ .navbar-collapse.collapsing {
+    background-color: #282828;
+    text-align: left;
+  }
+
+  .nav-item {
+    background-color: #282828;
+    margin-left: 4%;
+  }
