@@ -8,6 +8,17 @@ export default function Home() {
             <div className="home-title">
                 <h1>Tristan Langford</h1>
                 <h2>Full Stack Software Engineer</h2>
+                <table className="tech-table">
+                    <tr>
+                        <td>React</td>
+                        <td>Node.js</td>
+                        <td>Express.js</td>
+                        <td>Ruby</td>
+                        <td>Rails</td>
+                        <td>Postgres</td>
+                        <td>Redux</td>
+                    </tr>
+                </table>
             </div>
         </div>
     <div className="home-right">

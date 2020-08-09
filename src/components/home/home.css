@@ -89,3 +89,9 @@
     transform: translateY(70px);
     -webkit-transform: translateY(70px);
   }
+
+  .tech-table {
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+  }

@@ -12,7 +12,7 @@ export default function Contact() {
                 LinkedIn: <a className="contact-link" href="https://www.linkedin.com/in/tristan-langford-61711a70/" target="_blank">Tristan Langford</a>
             </li>
             <li> 
-                Github: <a className="contact-link" href="https://github.com/tristanlangford">tristanlangford</a>
+                Github: <a className="contact-link" href="https://github.com/tristanlangford" target="_blank">tristanlangford</a>
             </li>
             <li> 
                 <a className="contact-link" href="/images/TRISTAN_LANGFORD_CV.pdf" download>Download a copy of my CV </a>
