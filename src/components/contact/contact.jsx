@@ -6,7 +6,7 @@ export default function Contact() {
     <div className="container contact">
         <ul>
             <li> 
-                Email: <a className="contact-link" href="mailto:tristanlangford@hotmail.com" target="_blank">tristanlangford@hotmail.com</a>
+                Email: <a className="contact-link" href="mailto:tristanlangford@hotmail.com">tristanlangford@hotmail.com</a>
             </li>
             <li> 
                 LinkedIn: <a className="contact-link" href="https://www.linkedin.com/in/tristan-langford-61711a70/" target="_blank" rel="noopener noreferrer">Tristan Langford</a>
