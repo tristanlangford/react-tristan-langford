@@ -15,7 +15,7 @@ export default function Home() {
                         <td>Express.js</td>
                         <td>Ruby</td>
                         <td>Rails</td>
-                        <td>Postgres</td>
+                        <td>PostgresSQL</td>
                         <td>Redux</td>
                     </tr>
                 </table>
