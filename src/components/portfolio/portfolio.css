@@ -55,6 +55,9 @@
     transition-delay: 0s;
     transition-duration: 0.4s;
     z-index: -100;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
   }
   
   .portfolio-block .portfolio-desc-block:hover .portfolio-desc {

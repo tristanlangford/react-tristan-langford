@@ -33,7 +33,7 @@ export default function Portfolio() {
           <td> 
             <div className="portfolio-block"><a href="https://news-article-summary.herokuapp.com/"> <img className="portfolio-image" src="/images/news-app-list-view.png" alt="news-app-list-view"/>
                 <div className="portfolio-desc-block">
-                  <div className="portfolio-desc">A news summary web app, designed for quick scanning and reading of headlines using the Guardian Newspaper API. Built with Javascript, HTML & CSS</div>
+                  <div className="portfolio-desc">A news summary web app, designed for scanning current headlines using the Guardian API. Built with Javascript, HTML & CSS</div>
                 </div></a></div>
           </td>
         </tr>
