@@ -48,6 +48,12 @@
     margin-top: 40%;
 }
 
+.about-text-block {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .about-block {
     opacity: 0;
     font-size: 16px;

@@ -21,3 +21,11 @@
   .navbar-light.navbar-nav.nav-link {
     color: white;
   }
+
+  .navbar-nav.ml-auto {
+      margin-right: 10px;
+  }
+
+  .navbar-brand {
+      margin-left: 10px;
+  }

@@ -26,6 +26,7 @@ export default function Home() {
                     <img src={"/images/TL_image8.jpg"} className="tristan-image" alt="tristan"/>
                     <br/>
                     <br/>
+                    <div className="about-text-block">
                     <p>Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technology in the healthcare sector, in early 2020 I found what I had been looking for in software development.</p>
                     <p>I have recently graduated from Makers Academy London's leading programming bootcamp, learning best practice, tools and methodologies.</p>
                     <ul> 
@@ -33,6 +34,7 @@ export default function Home() {
                         <li><strong>Cricket</strong> - On a Sunday I'll be playing for one of the worst cricket teams in London formerly officially the worst</li>
                         <li><strong>Running</strong> - To keep myself sane and busy during lockdown, I got into running. So far I've completed a couple half marathons. </li>
                     </ul>
+                    </div>
                 </div>
             </div>
     </div>
