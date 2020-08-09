@@ -31,10 +31,6 @@ export default function Home() {
                     <img src={"/images/TL_image1.jpg"} className="tristan-image" alt="tristan"/>
                     <img src={"/images/TL_image3.png"} className="tristan-image" alt="tristan"/>
                     <img src={"/images/TL_image4.png"} className="tristan-image" alt="tristan"/>
-                    <img src={"/images/TL_image5.png"} className="tristan-image" alt="tristan"/>
-                    <img src={"/images/TL_image6.jpg"} className="tristan-image" alt="tristan"/>
-                    <img src={"/images/TL_image7.jpg"} className="tristan-image" alt="tristan"/>
-                    <img src={"/images/TL_image8.jpg"} className="tristan-image" alt="tristan"/>
                     <br/>
                     <br/>
                     <div className="about-text-block">
@@ -45,6 +41,10 @@ export default function Home() {
                         <li><strong>Running</strong> - To keep myself sane and busy during lockdown, I got into running. So far I've completed a couple half marathons. </li>
                     </ul>
                     </div>
+                    <img src={"/images/TL_image5.png"} className="tristan-image" alt="tristan"/>
+                    <img src={"/images/TL_image6.jpg"} className="tristan-image" alt="tristan"/>
+                    <img src={"/images/TL_image7.jpg"} className="tristan-image" alt="tristan"/>
+                    <img src={"/images/TL_image8.jpg"} className="tristan-image" alt="tristan"/>
                 </div>
             </div>
     </div>
