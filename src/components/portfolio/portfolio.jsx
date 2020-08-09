@@ -27,7 +27,7 @@ export default function Portfolio() {
           <td>
             <div className="portfolio-block"><a href="https://acebook-brainaics.herokuapp.com/"> <img className="portfolio-image" src="/images/AceBook.png" alt="Acebook"/>
                 <div className="portfolio-desc-block">
-                  <div className="portfolio-desc">A mock of Facebook. With user authentification, user walls and instant messaging. Built with Ruby-on-Rails.</div>
+                  <div className="portfolio-desc">A mock of Facebook. With user authentification, user walls and instant messaging. Built with Ruby-on-Rails & PostgresSQL.</div>
                 </div></a></div>
           </td>
           <td> 
