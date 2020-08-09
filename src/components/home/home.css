@@ -102,3 +102,19 @@
     width: 100%;
     text-align: left;
   }
+
+  .strava {
+    color: #FC4C01;
+  }
+
+  .strava:hover {
+    color: #FC4C01;
+  }
+
+  .dulwich {
+    color: #E97AB3;
+  }
+
+  .dulwich:hover {
+    color: #E97AB3;
+  }
