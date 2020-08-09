@@ -3,6 +3,7 @@
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    padding: 0;
   }
   
   .tristan-image {
@@ -11,11 +12,74 @@
     padding-right: 5px;
     padding-left: 5px;
   }
-  
-  .about-me {
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
+
+  .home-left {
     text-align: left;
-    padding-bottom: 45px;
+    left: 0;
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    border-right: 2px dotted #282828;
+    vertical-align: middle;
+  }
+
+  .home-right {
+    right: 0;
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    display: block;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.home-title {
+    margin-top: 40%;
+    margin-left: 5%;
+}
+
+.home-title h1 {
+    font-size: 58px;
+    font-weight: bold;
+}
+
+.About-me-text {
+    margin-top: 40%;
+}
+
+.about-block {
+    opacity: 0;
+    font-size: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    background-color: #4b4b4b;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 400ms ease-out;
+    -moz-transition: all 400ms ease-out;
+    -o-transition: all 400ms ease-out;
+    -ms-transition: all 400ms ease-out;
+    transition: all 400ms ease-out;
+    text-align: center;
+  }
+
+.about-block:hover {
+    opacity: 1;
+}
+
+.home-right .about-block .about-text {
+    height: 0;
+    opacity: 1;
+    transition-delay: 0s;
+    transition-duration: 0.4s;
+    z-index: -100;
+  }
+  
+  .home-right .about-block:hover .about-text {
+    opacity: 1;
+    z-index: 100;
+    transform: translateY(70px);
+    -webkit-transform: translateY(70px);
   }

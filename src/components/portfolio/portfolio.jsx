@@ -16,7 +16,8 @@ export default function Portfolio() {
       <tbody>
         <tr>
           <td> 
-            <div className="portfolio-block"><a href="https://vimvincible.netlify.app/"> <img className="portfolio-image" src="/images/inVimcible.png" alt="InVimcible"/>
+            <div className="portfolio-block"><a href="https://vimvincible.netlify.app/"> 
+              <img className="portfolio-image" src="/images/inVimcible.png" alt="InVimcible"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc"> 
                     <p>A 'top-down' game designed to help devs learn Vim commands. Built using Node.js, React, Redux.</p>
