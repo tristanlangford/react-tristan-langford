@@ -38,8 +38,7 @@ export default function Home() {
                     <br/>
                     <br/>
                     <div className="about-text-block">
-                    <p>Following a 5-year client-facing career in the healthcare sector, I wanted to do a job that I not only enjoyed but would make a difference. Inspired by the recent focus on technology in the healthcare sector, in early 2020 I found what I had been looking for in software development.</p>
-                    <p>I have recently graduated from Makers Academy London's leading programming bootcamp, learning best practice, tools and methodologies.</p>
+                    <p>Following a 5-year career in the medical-devices industry, inspired by the growing focus on technology, I joined Makers Academy, London's leading programming bootcamp, learning best practice, tools and methodologies.</p>
                     <ul> 
                         <li><strong>Dulwich Hamlet</strong> - On a Saturday can be found standing in the "rabble" supporting the best team in South London, Dulwich Hamlet FC</li>
                         <li><strong>Cricket</strong> - On a Sunday I'll be playing for one of the worst cricket teams in London formerly officially the worst</li>

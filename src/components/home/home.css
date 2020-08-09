@@ -51,6 +51,12 @@
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    text-align: left;
+}
+
+.about-text-block ul{
+  margin-left: 0;
+  padding: 0;
 }
 
 .about-block {
