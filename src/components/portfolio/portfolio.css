@@ -26,6 +26,11 @@
     max-width: 400px;
     height: auto;
   }
+
+  .project-table thead {
+    max-width: 400px;
+    height: auto;
+  }
   
   .portfolio-desc-block {
     opacity: 0;
