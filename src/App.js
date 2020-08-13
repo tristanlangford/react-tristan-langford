@@ -31,9 +31,9 @@ function App() {
     ) : (
       <Router>
         <Route path="/" exact component={HomeMobile} />
-        {/* <Route path="/portfolio" exact component={Portfolio} />
+        {/* <Route path="/portfolio" exact component={Portfolio} /> */}
         <Route path="/experience" exact component={Experience} />
-        <Route path="/contact" exact component={Contact} /> */}
+        <Route path="/contact" exact component={Contact} />
       </Router>
     )
   )
