@@ -16,8 +16,6 @@ function App() {
   const isMobile = windowDimension >= 700;
 
   window.addEventListener("resize", (e) => {
-    console.log(windowDimension)
-    console.log(isMobile)
     return setWindowDimension(window.innerWidth)
   })
 
