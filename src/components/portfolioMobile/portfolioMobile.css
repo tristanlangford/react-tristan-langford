@@ -1,0 +1,29 @@
+.portfolio.mobile {
+    padding-bottom: 26px;
+}
+
+.portfolio ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-mobile-container {
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    border-bottom: 2px dotted #282828;
+}
+
+.portfolio-image-mobile {
+    max-width: 300px;
+}
+
+.project-title-mobile {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.project-mobile-container p {
+    margin-top: 10px;
+}

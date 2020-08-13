@@ -4,6 +4,7 @@ import Portfolio from './components/portfolio/portfolio'
 import Experience from './components/experience/experience'
 import Contact from './components/contact/contact'
 import HomeMobile from './components/homeMobile/homeMobile'
+import PortfolioMobile from './components/portfolioMobile/portfolioMobile'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import React, { useEffect, useState } from "react";
@@ -31,7 +32,7 @@ function App() {
     ) : (
       <Router>
         <Route path="/" exact component={HomeMobile} />
-        {/* <Route path="/portfolio" exact component={Portfolio} /> */}
+        <Route path="/portfolio" exact component={PortfolioMobile} />
         <Route path="/experience" exact component={Experience} />
         <Route path="/contact" exact component={Contact} />
       </Router>
