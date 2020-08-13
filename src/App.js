@@ -7,7 +7,7 @@ import HomeMobile from './components/homeMobile/homeMobile'
 import PortfolioMobile from './components/portfolioMobile/portfolioMobile'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 function App() {
 
