@@ -1,10 +1,9 @@
 import React from "react";
-import "./home.css"
+
 
 export default function HomeMobile() {
   return (
     <div className="container about">
-        <div className="home-left">
             <div className="home-title">
                 <h1>Tristan Langford</h1>
                 <h2>Full Stack Software Engineer</h2>
@@ -20,8 +19,6 @@ export default function HomeMobile() {
                     </tr>
                 </table>
             </div>
-        </div>
-    <div className="home-right">
         <div className="About-me-text">
         <h3>About me... </h3>
         </div>
@@ -46,7 +43,6 @@ export default function HomeMobile() {
                     <img src={"/images/TL_image7.jpg"} className="tristan-image" alt="tristan"/>
                     <img src={"/images/TL_image8.jpg"} className="tristan-image" alt="tristan"/>
                 </div>
-            </div>
     </div>
     </div>
     );
