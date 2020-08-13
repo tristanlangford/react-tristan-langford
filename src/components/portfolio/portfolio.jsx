@@ -8,9 +8,9 @@ export default function Portfolio() {
     <table className="project-table"> 
       <thead> 
         <tr> 
-          <td>InVimcible </td>
-          <td>Acebook </td>
-          <td>News-Summary </td>
+          <td>InVimcible</td>
+          <td>Acebook</td>
+          <td>News-Summary</td>
         </tr>
       </thead>
       <tbody>
