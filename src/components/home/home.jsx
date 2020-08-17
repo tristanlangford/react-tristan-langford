@@ -15,7 +15,7 @@ export default function HomeMobile() {
                         <td>Express.js</td>
                         <td>Ruby</td>
                         <td>Rails</td>
-                        <td>PostgresSQL</td>
+                        <td>PostgreSQL</td>
                         <td>Redux</td>
                     </tr>
                 </table>

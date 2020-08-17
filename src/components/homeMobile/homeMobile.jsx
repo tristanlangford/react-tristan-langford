@@ -8,7 +8,7 @@ export default function HomeMobile() {
             <div className="home-title">
                 <h1>Tristan Langford</h1>
                 <h2>Full Stack Software Engineer</h2>
-                        <p>React.js | Node.js | Express.js | Ruby | Rails | PostgresSQL</p>
+                        <p>React.js | Node.js | Express.js | Ruby | Rails | PostgreSQL</p>
             </div>
         <div className="About-me-text mobile">
         <h3>About me... </h3>
