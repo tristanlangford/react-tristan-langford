@@ -16,7 +16,7 @@ export default function Portfolio() {
       <tbody>
         <tr>
           <td> 
-            <div className="portfolio-block"><a href="https://vimvincible.netlify.app/"> 
+            <div className="portfolio-block"><a href="https://vimvincible.netlify.app/" target="_blank" rel="noopener noreferrer"> 
               <img className="portfolio-image" src="/images/inVimcible.png" alt="InVimcible"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc"> 
@@ -25,13 +25,13 @@ export default function Portfolio() {
                 </div></a></div>
           </td>
           <td> 
-            <div className="portfolio-block"><a href="https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed"> <img className="portfolio-image" src="/images/GarminFootballScoreTracker.jpg" alt="Garmin Football Score Tracker"/>
+            <div className="portfolio-block"><a href="https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/GarminFootballScoreTracker.jpg" alt="Garmin Football Score Tracker"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc">A Garmin ConnectIQ App for keeping score in 5 a-side football. Built with Monkey C. Can change and store team names & timer settings.</div>
                 </div></a></div>
           </td>
           <td> 
-            <div className="portfolio-block"><a href="https://news-article-summary.herokuapp.com/"> <img className="portfolio-image" src="/images/news-app-list-view.png" alt="news-app-list-view"/>
+            <div className="portfolio-block"><a href="https://news-article-summary.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/news-app-list-view.png" alt="news-app-list-view"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc">A news summary web app, designed for scanning current headlines using the Guardian API. Built with Javascript, HTML & CSS</div>
                 </div></a></div>
@@ -47,13 +47,13 @@ export default function Portfolio() {
       <tbody> 
         <tr> 
           <td> 
-            <div className="portfolio-block"><a href="https://github.com/tristanlangford/bank_tech_test"> <img className="portfolio-image" src="/images/BankTechTest.png" alt="Bank Tech Test"/>
+            <div className="portfolio-block"><a href="https://github.com/tristanlangford/bank_tech_test" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/BankTechTest.png" alt="Bank Tech Test"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc">A small project designed to highlight my code quality and process. I have also completed this tech test in Ruby.</div>
                 </div></a></div>
           </td>
           <td>
-            <div className="portfolio-block"><a href="https://acebook-brainaics.herokuapp.com/"> <img className="portfolio-image" src="/images/AceBook.png" alt="Acebook"/>
+            <div className="portfolio-block"><a href="https://acebook-brainaics.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/AceBook.png" alt="Acebook"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc">A mock of Facebook. With user authentification, user walls and instant messaging. Built with Ruby-on-Rails & PostgresSQL.</div>
                 </div></a></div>
