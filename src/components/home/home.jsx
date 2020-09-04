@@ -12,7 +12,7 @@ export default function HomeMobile() {
                     <tr>
                         <td>React</td>
                         <td>Node.js</td>
-                        <td>Express.js</td>
+                        <td>Garmin</td>
                         <td>Ruby</td>
                         <td>Rails</td>
                         <td>PostgreSQL</td>
@@ -38,7 +38,7 @@ export default function HomeMobile() {
                     <ul> 
                         <li><strong>Dulwich Hamlet</strong> - On a Saturday can be found standing in the "rabble" supporting the best team in South London, Dulwich Hamlet FC</li>
                         <li><strong>Cricket</strong> - On a Sunday I'll be playing for one of the worst cricket teams in London (formerly officially the worst)</li>
-                        <li><strong>Running</strong> - To keep myself sane and busy during lockdown, I got into running. So far I've completed a couple half marathons. Follow me on <a className="strava" href="https://www.strava.com/athletes/15342123" target="_blank" rel="noopener noreferrer">Strava</a></li>
+                        <li><strong>Running</strong> - Regular runner; so far I've completed 3 half marathons. Follow me on <a className="strava" href="https://www.strava.com/athletes/15342123" target="_blank" rel="noopener noreferrer">Strava</a></li>
                     </ul>
                     </div>
                     <img src={"/images/TL_image5.png"} className="tristan-image" alt="tristan"/>
