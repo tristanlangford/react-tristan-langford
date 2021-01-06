@@ -17,11 +17,11 @@ export default function PortfolioMobile() {
         </li>
         <li>
             <div className='project-mobile-container'>
-                <span className='project-title-mobile'>Acebook</span>
-                <a href="https://acebook-brainaics.herokuapp.com/">
-                    <img className="portfolio-image-mobile" src="/images/AceBook.png" alt="Acebook"/>
+                <span className='project-title-mobile'>Garmin - Score Tracker App</span>
+                <a href="https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed">
+                    <img className="portfolio-image-mobile" src="/images/GarminFootballScoreTracker.jpg" alt="Garmin Score Tracker App"/>
                 </a>
-                <p>A mock of Facebook. With user authentification, user walls and instant messaging. Built with Ruby-on-Rails & PostgresSQL.</p>
+                <p>A Garmin ConnectIQ App for keeping score in 5 a-side football. Built with Monkey C. Can change and store team names & timer settings.</p>
             </div>
         </li>
         <li>
@@ -42,6 +42,13 @@ export default function PortfolioMobile() {
                 <p>A small project designed to highlight my code quality and process. I have also completed this tech test in Ruby.</p>
             </div>
         </li>
+        <div className='project-mobile-container'>
+                <span className='project-title-mobile'>Acebook</span>
+                <a href="https://acebook-brainaics.herokuapp.com/">
+                    <img className="portfolio-image-mobile" src="/images/AceBook.png" alt="Acebook"/>
+                </a>
+                <p>A mock of Facebook. With user authentification, user walls and instant messaging. Built with Ruby-on-Rails & PostgresSQL.</p>
+            </div>
     </ul>
     </div>
     );
