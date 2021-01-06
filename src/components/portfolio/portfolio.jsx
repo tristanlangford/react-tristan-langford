@@ -25,7 +25,7 @@ export default function Portfolio() {
                 </div></a></div>
           </td>
           <td> 
-            <div className="portfolio-block"><a href="https://apps.garmin.com/en-US/apps/5d8fbcc0-b650-4a0d-87dd-f5acb095d1ed" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/GarminFootballScoreTracker.jpg" alt="Garmin Football Score Tracker"/>
+            <div className="portfolio-block"><a href="https://apps.garmin.com/en-US/apps/cf6998d4-e80d-46b7-892a-b64440bc4446" target="_blank" rel="noopener noreferrer"> <img className="portfolio-image" src="/images/GarminFootballScoreTracker.jpg" alt="Garmin Football Score Tracker"/>
                 <div className="portfolio-desc-block">
                   <div className="portfolio-desc">A Garmin ConnectIQ App for keeping score in 5 a-side football. Built with Monkey C. Can change and store team names & timer settings.</div>
                 </div></a></div>
